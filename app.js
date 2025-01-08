@@ -1,4 +1,5 @@
-// This is the code of app.js for react native made by me.
+// This is my first Github repository before that I don't know about how to use github and all that but after this I understand all of these.
+// This is the code of app.js for react native made for AUTHSHOWDOWN BATTLE given by Team Appistry.
 
 
 import React, { useState } from "react";
